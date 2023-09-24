@@ -1,1 +1,3 @@
-# Hana-digital-power-on-2-
+# Hana-digital-power-on-2기  
+예선: 생성형 아이디어를 이용한 나만의 카드 만들기  
+해커톤: 노인의 음성만으로 우울한 기분을 진단하는 AI 모델 
